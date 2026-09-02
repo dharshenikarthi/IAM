@@ -1,6 +1,6 @@
 # EX - 6 Implementation Of Identity Management (Amazon IAM) For Your Team
 
-## NAME: Dharsheni K
+## NAME: DHARSHENI K
 ## REG. NO: 212224040073
 ---
 
@@ -68,35 +68,42 @@ To implement identity and access management (IAM) in AWS to securely control acc
 
 ## 1.IAM Group Creation
 
-<img width="1916" height="1141" alt="image" src="https://github.com/user-attachments/assets/8fd42d5b-923a-45cb-9787-59d5f58015b6" />
+<img width="1917" height="1020" alt="image" src="https://github.com/user-attachments/assets/a7ef8be5-bdd3-48d0-81d5-f250ae922f35" />
 
 
 
-## 2.Create an IAM User
+## 2.Attach an IAM Policy to the group
 
-<img width="1917" height="1087" alt="image" src="https://github.com/user-attachments/assets/efe3bb82-9f61-49bc-b468-13f6c69d3433" />
-
-
+<img width="1915" height="1077" alt="image" src="https://github.com/user-attachments/assets/7944dc84-1d34-428f-8c09-1b2b4bd0ec76" />
 
 
+## 3.Create an IAM User
 
-## 3.Add The user to the IAM Group
-
+<img width="1917" height="1082" alt="image" src="https://github.com/user-attachments/assets/e8505df8-154d-4d6c-9f71-c5986f0e7f21" />
 
 
 
+## 4.Add The user to the IAM Group
 
-
-## 4.Verify user Permissions
-
-
-
+<img width="1917" height="1082" alt="image" src="https://github.com/user-attachments/assets/4edbd93c-f6d6-493d-beb0-6e528dab1604" />
 
 
 
-## 5.Verify Least-Privilege Access
+## 5.Verify user Permissions
+
+<img width="1917" height="1077" alt="image" src="https://github.com/user-attachments/assets/a675233b-6fab-47c0-b71f-afd3777a3159" />
 
 
+<img width="1916" height="1135" alt="image" src="https://github.com/user-attachments/assets/557d3782-4fca-4437-a781-bdf8675d0eab" />
+
+
+
+## 6.Verify Least-Privilege Access
+
+
+<img width="1916" height="1081" alt="image" src="https://github.com/user-attachments/assets/c0733048-e4dc-49be-9e1f-d458f0017173" />
+
+<img width="1917" height="1026" alt="image" src="https://github.com/user-attachments/assets/99561cba-f382-4982-8c75-c05db1ce3555" />
 
 
 
